@@ -1,9 +1,11 @@
 # programs_in_Eiffel
 Some code in _Eiffel_ using _Design by Contract_ mechanisms
 
-_Eiffel is an object-oriented programming language, that has 'Design by contract' tightly integrated with other language constructs. Eiffel allows explicitly defining the program to 'require' certain states as preconditions, 'ensure' postcondition states, and 'invariants' for every procedure, thereby imposing tight bounds in the states the program can reach._
+_Eiffel_ is an object-oriented programming language, that has _'Design by contract'_ tightly integrated with other language constructs. Eiffel allows explicitly defining the program to _'require'_ certain states as _preconditions_, _'ensure'_ _postcondition_ states, and _'invariants'_ for every procedure, thereby imposing tight bounds in the states the program can reach.
 
 About Eiffel: https://en.wikipedia.org/wiki/Eiffel_(programming_language)
+
+_Rename each of the programs to 'application.e' to run directly in 'Basic Application mode' on 'estudio'._
 
 ## 1. Matrix Inversion in O(n^3)
 
